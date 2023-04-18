@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/110921145/232872658-5a791908-c83c-4fd3-929f-00954b70c7e2.png)
-
 
 
 CSS application
